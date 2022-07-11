@@ -16,4 +16,4 @@ Here, we provide the codes for numerical simulations, processings of the experim
 
 ## License
 
-Released under [MIT License](https://github.com/LWKJJONAK/Quantum_Neural_Network_Classifiers/blob/main/LICENSE)
+Released under [MIT License](https://github.com/LWKJJONAK/Experimental-quantum-adversarial-learning-with-superconducting-qubits/blob/main/LICENSE)
