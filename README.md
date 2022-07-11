@@ -3,6 +3,12 @@
 In our recent work [Experimental quantum adversarial learning with programmable superconducting qubits](https://arxiv.org/abs/2204.01738), we have experimentally implemented the quantum adversarial learning with high-dimensional real-life images and quantum data.
 Here, we provide the codes for numerical simulations, processings of the experimental data, and the codes for plotting the figures in our paper.
 
+## The numerical simulations are built With
+
+* [Yao](https://github.com/QuantumBFS/Yao.jl) - A framework for Quantum Algorithm Design
+
+Detailed installation instructions and tutorials of Julia and Yao.jl can be found at [julialang.org](https://julialang.org/) and [yaoquantum.org](https://yaoquantum.org/), respectively. And see also our tutorial on [quantum neural network classifiers](https://arxiv.org/abs/2206.02806) for more detailed information.
+
 ```bibtex
 @unpublished{Ren2022Experimental,
   title = {Experimental Quantum Adversarial Learning with Programmable Superconducting Qubits},
