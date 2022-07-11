@@ -13,4 +13,4 @@ The output of the above simulations.
 The notebook file for visualizing the data, which is exhibited in Fig.S2, Fig.S3, Fig.S4, and Fig.S5.
 
 ## demo_for_quantum_adversarial_learning: 
-We provide numerical simulations of the quantum adversarial learning procedure. (Note that the quantum adversarial learning in our work in implemented on superconducting platforms, and the experimental data is provided in the Experimental_Data folder)
+We provide numerical simulations of the quantum adversarial learning procedure (We mention that the quantum adversarial learning in our work is implemented on superconducting platforms, and the experimental data is provided in the Experimental_Data folder).
