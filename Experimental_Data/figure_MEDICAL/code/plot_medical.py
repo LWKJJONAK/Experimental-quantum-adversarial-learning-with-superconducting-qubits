@@ -671,7 +671,7 @@ def fig2_f(dataset_train=None, dataset_test=None, session=None, save_path=None, 
     plt.xticks([0, 25, 50], fontsize=9)
     plt.yticks([-0.6, 0,  0.6], fontsize=9)
     familydic = dict(fontsize=10, family='Times New Roman')
-    plt.text(-13, -0.1, r'$\langle\hat\sigma_z\rangle$', size=10, rotation='vertical', fontdict=familydic)
+    plt.text(-13, -0.1, r'$\langle\hat\sigma_z\rangle$', rotation='vertical', fontdict=familydic)
     plt.xlabel('Sample index', fontsize=10, fontproperties='Times New Roman')
     font = {'family':'Times New Roman', 'size': 9}
     plt.legend(['Hand', 'Breast'], frameon=False, loc=3, bbox_to_anchor=(0.35, 1.0), ncol=3, handletextpad=0.0, columnspacing=0.3, borderaxespad=0.0, prop=font)
