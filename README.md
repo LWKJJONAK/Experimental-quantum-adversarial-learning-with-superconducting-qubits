@@ -12,7 +12,7 @@ Here, we provide the codes for numerical simulations, processings of the experim
 
 * [Yao](https://github.com/QuantumBFS/Yao.jl) - A framework for Quantum Algorithm Design
 
-Detailed installation instructions and tutorials of Julia and Yao.jl can be found at [julialang.org](https://julialang.org/) and [yaoquantum.org](https://yaoquantum.org/), respectively. And see also our tutorial on [quantum neural network classifiers](https://arxiv.org/abs/2206.02806) for more detailed information.
+Detailed installation instructions and tutorials of Julia and Yao.jl can be found at [julialang.org](https://julialang.org/) and [yaoquantum.org](https://yaoquantum.org/), respectively. And see also our tutorial on [quantum neural network classifiers](https://www.scipost.org/SciPostPhysLectNotes.61) for more detailed information.
 
 ```bibtex
 @unpublished{Ren2022Experimental,
