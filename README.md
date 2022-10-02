@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/512663601.svg)](https://zenodo.org/badge/latestdoi/512663601)
+
 # Experimental quantum adversarial learning with superconducting qubits
 
 In our work [Experimental quantum adversarial learning with programmable superconducting qubits](https://arxiv.org/abs/2204.01738), we have experimentally implemented the quantum adversarial learning with high-dimensional real-life images and quantum data on a superconducting quantum processor.
