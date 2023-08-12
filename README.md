@@ -7,7 +7,7 @@ Here, we provide the codes for numerical simulations, processings of the experim
 
 ## Contents
 
-- [Numerical Simulations](Numerical_Simulations)
+- [Numerical Simulations](Numerical_Simulations) (Some functions in this code have been deprecated, so modifications might be needed)
 - [Experimental Data and Analysis](Experimental_Data)
 
 ## The numerical simulations are built With
